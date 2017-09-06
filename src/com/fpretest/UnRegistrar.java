@@ -1201,7 +1201,7 @@ public class UnRegistrar implements Runnable
 	//÷ÿ‘ÿlogToFile
 	void logToFile(String info, String location)
 	{
-		/*
+		
 		File logFile = new File(location);
 
 		try{
@@ -1224,7 +1224,7 @@ public class UnRegistrar implements Runnable
 		}catch(IOException e2){
 			e2.printStackTrace();
 		}
-		*/
+
 	}
 	//÷ÿ‘ÿlogToFile
 	void RcvPackToFile(String info, String location)
